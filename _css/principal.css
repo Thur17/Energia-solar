@@ -8,6 +8,10 @@ body {
 body,td,th {
 	font-family: Verdana, Geneva, sans-serif;
 	color: #333;
+	height="432" 
+	align= "center" ; 
+	background-image: url(_img/imggg.jpg) width="640" height="355";
+
 }
 #topMenu {
 	margin-left: 0px;
@@ -23,11 +27,12 @@ body,td,th {
     text-decoration: none;
 	border-style: solid;  
 	border-color: #6D6D6D;
-	
+}	
 #menu ul a:hover {
     border-style: solid;  
 	border-color: #EA0000;
 }
+
 #clic a:active{
 	    border-bottom:3px solid #EA0000;
 }
