@@ -1,0 +1,33 @@
+@charset "utf-8";
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+body,td,th {
+	font-family: Verdana, Geneva, sans-serif;
+	color: #333;
+}
+#topMenu {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+}
+#menu ul a {
+    padding: 2px ;
+    display: inline-block;
+    /* visual do link */
+ /* background-color:#EDEDED;*/
+	color: #333;
+    text-decoration: none;
+	border-style: solid;  
+	border-color: #6D6D6D;
+	
+#menu ul a:hover {
+    border-style: solid;  
+	border-color: #EA0000;
+}
+#clic a:active{
+	    border-bottom:3px solid #EA0000;
+}
