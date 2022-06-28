@@ -8,7 +8,7 @@
  
 ### PROJETO REALIZADO NA FACULDADE CIENCIA DA COMPUTAÇÃO APS- UNIP
 
-A PROTEÇÃO AO MEIO AMBIENTE É UM DOS TEMAS MAIS DEBATIDOS NOS TEMPOS MODERNOS, COMO NÃO PODERIA DEIXAR DE SER DISCUTIDO, NOSSO TRABALHO, ABORDOU A PRODUÇÃO DE ENERGIA NÃO POLUENTE, ESPECIFICAMENTE A GERAÇÃO DE ENERGIA ELÉTRICA POR MEIO DOS RAIOS SOLARES. PARA A EXECUÇÃO DO TRABALHO TIVEMOS QUE REALIZAR PESQUISAS HISTÓRICAS, TECNOLÓGICAS, ECONÔMICAS, FINANCEIRAS E SUSTENTABILIDADE DESTA NOVA TECNOLOGIA E OS IMPACTOS SÓCIOS AMBIENTAIS. ENTENDER A EVOLUÇÃO DESTA TECNOLOGIA SOBRE OS IMPACTOS E DESAFIOS NAS BARREIRAS AINDA SEREM SUPERADAS NOS AMBIENTES JÁ CITADOS, NOS FEZ REFLETIR SOBRE O FUTURO NA DEMANDA DESSE TECNOLOGIA.
+A proteção ao meio ambiente é um dos temas mais debatidos nos tempos modernos, como não poderia deixar de ser discutido, nosso trabalho, abordou a produção de energia não poluente, especificamente a geração de energia elétrica por meio dos raios solares, para a execução do trabalho tivemos que realizar pesquisas históricas, tecnológicas, econômicas, financeiras e de sustentabilidade desta nova tecnologia e os impactos sócios ambientais, entender a evolução desta tecnologia sobre os impactos e desafios nas barreiras a serem superadas nos ambientes já citados, nos fez refletir sobre o futuro na demanda desse tecnologia.
 
 ### Coloque traje e vamos la conferir como ficou
 
