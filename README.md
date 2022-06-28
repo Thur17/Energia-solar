@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+<div align="center"> 
+ 
+## Olá seja bem vindo, meu nome e Arthur!!
 
-You can use the [editor on GitHub](https://github.com/Thur17/Energia-solar/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[![NPM](https://img.shields.io/npm/l/react)]
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Projeto energia solar 
+ 
+### PROJETO REALIZADO NA FACULDADE CIENCIA DA COMPUTAÇÃO APS- UNIP
 
-### Markdown
+A PROTEÇÃO AO MEIO AMBIENTE É UM DOS TEMAS MAIS DEBATIDOS NOS TEMPOS MODERNOS, COMO NÃO PODERIA DEIXAR DE SER DISCUTIDO, NOSSO TRABALHO, ABORDOU A PRODUÇÃO DE ENERGIA NÃO POLUENTE, ESPECIFICAMENTE A GERAÇÃO DE ENERGIA ELÉTRICA POR MEIO DOS RAIOS SOLARES. PARA A EXECUÇÃO DO TRABALHO TIVEMOS QUE REALIZAR PESQUISAS HISTÓRICAS, TECNOLÓGICAS, ECONÔMICAS, FINANCEIRAS E SUSTENTABILIDADE DESTA NOVA TECNOLOGIA E OS IMPACTOS SÓCIOS AMBIENTAIS. ENTENDER A EVOLUÇÃO DESTA TECNOLOGIA SOBRE OS IMPACTOS E DESAFIOS NAS BARREIRAS AINDA SEREM SUPERADAS NOS AMBIENTES JÁ CITADOS, NOS FEZ REFLETIR SOBRE O FUTURO NA DEMANDA DESSE TECNOLOGIA.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Coloque traje e vamos la conferir como ficou
 
-```markdown
-Syntax highlighted code block
+[![image](https://user-images.githubusercontent.com/88401848/175353653-dfa18f7a-768d-4bab-90f3-5c6c302af982.png)](https://thur17.github.io/Energia-solar/index.html)
 
-# Header 1
-## Header 2
-### Header 3
+[![web 1](https://raw.githubusercontent.com/Thur17/Energia-solar/master/img/Tela%20inicial.png)](https://thur17.github.io/Energia-solar/index.html)
 
-- Bulleted
-- List
+## Tecnologias utilizadas 
+ HTML - CSS
+ 
+<div>
+  <div style="display: inline_block"><br>
+   <img align="center" alt="thur-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> -
+   <img align="center" alt="thur-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+ 
+ <h2> Autor
+ <h2>Arthur Torres Felippe da Silva <br>
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Thur17/Energia-solar/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<div>
+   <a href = "mailto:arthurthur17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">   </a>
+   <a href="https://www.linkedin.com/in/arthur-felippe-5843ab21" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
