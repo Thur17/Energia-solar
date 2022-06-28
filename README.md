@@ -2,7 +2,7 @@
  
 ## Olá seja bem vindo, meu nome e Arthur!!
 
-[![NPM](https://img.shields.io/npm/l/react)]
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Thur17/Energia-solar/blob/master/licence)
 
 ### Projeto energia solar 
  
